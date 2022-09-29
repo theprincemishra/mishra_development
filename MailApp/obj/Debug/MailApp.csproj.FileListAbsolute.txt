@@ -1,0 +1,54 @@
+C:\Users\Ashutosh Mishra\source\repos\MailApp\MailApp\obj\Debug\MailApp.csproj.AssemblyReference.cache
+C:\Users\Ashutosh Mishra\source\repos\MailApp\MailApp\obj\Debug\MailApp.csproj.CoreCompileInputs.cache
+C:\Users\Ashutosh Mishra\source\repos\MailApp\MailApp\bin\Debug\MailApp.exe.config
+C:\Users\Ashutosh Mishra\source\repos\MailApp\MailApp\bin\Debug\MailApp.exe
+C:\Users\Ashutosh Mishra\source\repos\MailApp\MailApp\bin\Debug\MailApp.pdb
+C:\Users\Ashutosh Mishra\source\repos\MailApp\MailApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ashutosh Mishra\source\repos\MailApp\MailApp\bin\Debug\MailKit.dll
+C:\Users\Ashutosh Mishra\source\repos\MailApp\MailApp\bin\Debug\MimeKit.dll
+C:\Users\Ashutosh Mishra\source\repos\MailApp\MailApp\bin\Debug\System.Buffers.dll
+C:\Users\Ashutosh Mishra\source\repos\MailApp\MailApp\bin\Debug\System.Memory.dll
+C:\Users\Ashutosh Mishra\source\repos\MailApp\MailApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ashutosh Mishra\source\repos\MailApp\MailApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ashutosh Mishra\source\repos\MailApp\MailApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ashutosh Mishra\source\repos\MailApp\MailApp\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Ashutosh Mishra\source\repos\MailApp\MailApp\bin\Debug\MailKit.pdb
+C:\Users\Ashutosh Mishra\source\repos\MailApp\MailApp\bin\Debug\MailKit.xml
+C:\Users\Ashutosh Mishra\source\repos\MailApp\MailApp\bin\Debug\MimeKit.pdb
+C:\Users\Ashutosh Mishra\source\repos\MailApp\MailApp\bin\Debug\MimeKit.xml
+C:\Users\Ashutosh Mishra\source\repos\MailApp\MailApp\bin\Debug\System.Buffers.xml
+C:\Users\Ashutosh Mishra\source\repos\MailApp\MailApp\bin\Debug\System.Memory.xml
+C:\Users\Ashutosh Mishra\source\repos\MailApp\MailApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ashutosh Mishra\source\repos\MailApp\MailApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ashutosh Mishra\source\repos\MailApp\MailApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ashutosh Mishra\source\repos\MailApp\MailApp\obj\Debug\MailApp.csproj.CopyComplete
+C:\Users\Ashutosh Mishra\source\repos\MailApp\MailApp\obj\Debug\MailApp.exe
+C:\Users\Ashutosh Mishra\source\repos\MailApp\MailApp\obj\Debug\MailApp.pdb
+C:\Users\CURITICS HEALTH 7\Downloads\MailApp\MailApp\MailApp\bin\Debug\MailApp.exe.config
+C:\Users\CURITICS HEALTH 7\Downloads\MailApp\MailApp\MailApp\bin\Debug\MailApp.exe
+C:\Users\CURITICS HEALTH 7\Downloads\MailApp\MailApp\MailApp\bin\Debug\MailApp.pdb
+C:\Users\CURITICS HEALTH 7\Downloads\MailApp\MailApp\MailApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\CURITICS HEALTH 7\Downloads\MailApp\MailApp\MailApp\bin\Debug\MailKit.dll
+C:\Users\CURITICS HEALTH 7\Downloads\MailApp\MailApp\MailApp\bin\Debug\MimeKit.dll
+C:\Users\CURITICS HEALTH 7\Downloads\MailApp\MailApp\MailApp\bin\Debug\System.Buffers.dll
+C:\Users\CURITICS HEALTH 7\Downloads\MailApp\MailApp\MailApp\bin\Debug\System.Memory.dll
+C:\Users\CURITICS HEALTH 7\Downloads\MailApp\MailApp\MailApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\CURITICS HEALTH 7\Downloads\MailApp\MailApp\MailApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CURITICS HEALTH 7\Downloads\MailApp\MailApp\MailApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CURITICS HEALTH 7\Downloads\MailApp\MailApp\MailApp\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\CURITICS HEALTH 7\Downloads\MailApp\MailApp\MailApp\bin\Debug\MailKit.pdb
+C:\Users\CURITICS HEALTH 7\Downloads\MailApp\MailApp\MailApp\bin\Debug\MailKit.xml
+C:\Users\CURITICS HEALTH 7\Downloads\MailApp\MailApp\MailApp\bin\Debug\MimeKit.pdb
+C:\Users\CURITICS HEALTH 7\Downloads\MailApp\MailApp\MailApp\bin\Debug\MimeKit.xml
+C:\Users\CURITICS HEALTH 7\Downloads\MailApp\MailApp\MailApp\bin\Debug\System.Buffers.xml
+C:\Users\CURITICS HEALTH 7\Downloads\MailApp\MailApp\MailApp\bin\Debug\System.Memory.xml
+C:\Users\CURITICS HEALTH 7\Downloads\MailApp\MailApp\MailApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\CURITICS HEALTH 7\Downloads\MailApp\MailApp\MailApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CURITICS HEALTH 7\Downloads\MailApp\MailApp\MailApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CURITICS HEALTH 7\Downloads\MailApp\MailApp\MailApp\obj\Debug\MailApp.csproj.CoreCompileInputs.cache
+C:\Users\CURITICS HEALTH 7\Downloads\MailApp\MailApp\MailApp\obj\Debug\MailApp.csproj.CopyComplete
+C:\Users\CURITICS HEALTH 7\Downloads\MailApp\MailApp\MailApp\obj\Debug\MailApp.exe
+C:\Users\CURITICS HEALTH 7\Downloads\MailApp\MailApp\MailApp\obj\Debug\MailApp.pdb
+C:\Users\CURITICS HEALTH 7\Downloads\MailApp\MailApp\MailApp\obj\Debug\MailApp.csproj.AssemblyReference.cache
+C:\Users\CURITICS HEALTH 7\Downloads\MailApp\MailApp\MailApp\bin\Debug\Aspose.Email.dll
+C:\Users\CURITICS HEALTH 7\Downloads\MailApp\MailApp\MailApp\bin\Debug\Aspose.Email.xml
